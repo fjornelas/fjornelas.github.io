@@ -6,8 +6,7 @@ description: >
 
 # Dark theme configuration
 theme: 
-  name: jekyll-theme-minimal
-  dark_sidebar: true
+  name: jekyll-theme-slate
 
 # Sidebar content
 sidebar:
