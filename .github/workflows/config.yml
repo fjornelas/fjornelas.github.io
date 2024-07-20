@@ -1,43 +1,20 @@
-# Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+# Behaviorbot config. See https://github.com/behaviorbot/ for more information.
+# Note: Please Don't edit this file directly.
+# Edit https://github.com/pages-themes/maintenance-scripts instead.
 
-on:
-  # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
+# Configuration for update-docs - https://github.com/behaviorbot/update-docs
+updateDocsComment: "Thanks for the pull request! If you are making any changes to the user-facing functionality, please be sure to update the documentation in the `README` or `docs/` folder alongside your change. :heart:"
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+# Configuration for request-info - https://github.com/behaviorbot/request-info
+requestInfoReplyComment: Thanks for this. Do you mind providing a bit more information about what problem you're trying to solve?
+requestInfoLabelToAdd: more-information-needed
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+#newIssueWelcomeComment: >
+#  Welcome!
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+newPRWelcomeComment: Welcome! Congrats on your first pull request to the Minimal theme. If you haven't already, please be sure to check out [the contributing guidelines](https://github.com/pages-themes/minimal/blob/master/docs/CONTRIBUTING.md).
 
-jobs:
-  # Single deploy job since we're just deploying
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          # Upload entire repository
-          path: '.'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+firstPRMergeComment: "Congrats on getting your first pull request to the Minimal theme merged! Without amazing humans like you submitting pull requests, we couldn’t run this project. You rock! :tada:<br /><br />If you're interested in tackling another bug or feature, take a look at [the open issues](https://github.com/pages-themes/minimal/issues), especially those [labeled `help wanted`](https://github.com/pages-themes/minimal/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)."
