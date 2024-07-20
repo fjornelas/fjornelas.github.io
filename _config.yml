@@ -1,30 +1,31 @@
-title: Website minimal theme
-description: >
-  Minimal is a theme for GitHub Pages.
-  This is a brief description of who I am.
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
 
-# Dark theme configuration
-theme: 
-  name: jekyll-theme-slate
+title: hvsrprocpy
+author: Francisco Javier Ornelas
+copyright: "2024"
 
-# Sidebar content
-sidebar:
-  - title: About Me
-    image: /assets/img/your_image.jpg
-    image_alt: Francisco Javier Ornelas
-    text: >
-      I am a PhD Student at UCLA.
-  - title: Links
-    links:
-      - title: GitHub
-        url: https://github.com/fjornelas
-      # - title: LinkedIn
-      #   url: https://linkedin.com/in/yourusername
-      # Add more links as needed
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: "off"
 
-# Optional configurations
-show_downloads: true
-google_analytics:
+# Add a bibtex file so that we can create citations
 
-# Any other configurations you need
 
+launch_buttons:
+  notebook_interface: "jupyterlab"
+  colab_url: "https://colab.research.google.com"
+  
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/fjornelas/hvsrprocpy  # Online location of your book
+  path_to_book: docs  # Optional path to your book, relative to the repository root
+  branch: main  # Which branch of the repository should be used when creating links (optional)
+
+# Add GitHub buttons to your book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  use_issues_button: true
+  use_repository_button: true
+  extra_navbar: ""
