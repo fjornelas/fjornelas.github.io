@@ -1,0 +1,12 @@
+Pygments
+jupyter-book
+attrs
+coverage
+iniconfig
+packaging
+pluggy
+py
+pyparsing
+pytest
+pytest-cov
+tomli
