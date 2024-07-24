@@ -1,7 +1,8 @@
 # About Me
 
-<img src="https://github.com/fjornelas/FJOwebsite/blob/main/img/0524 (1).jpg?raw=true" width="775">
-
+<div style="text-align:center;">
+  <img src="https://github.com/fjornelas/FJOwebsite/blob/main/img/0524%20(1).jpg?raw=true" width="150" style="border-radius: 50%;"><br>
+</div>
 
 ## Biography
 
@@ -9,13 +10,13 @@ Francisco Javier G. Ornelas is currently pursuing a PhD at the University of Cal
 
 ## Education
 
-- Ph.D. in Civil and Environmental Engineering (expected 2025)
+- Ph.D. in Civil and Environmental Engineering (expected 2025)  
   University of California, Los Angeles (UCLA)
 
-- M.S. in Geotechnical Engineering, 2022
+- M.S. in Geotechnical Engineering, 2022  
   University of California, Los Angeles (UCLA)
 
-- B.S. in Civil Engineering, 2020
+- B.S. in Civil Engineering, 2020  
   University of the Pacific
 
 ## Research Interests
@@ -23,11 +24,4 @@ Francisco Javier G. Ornelas is currently pursuing a PhD at the University of Cal
 - Civil Engineering
 - Geotechnical Earthquake Engineering
 - Horizontal-to-Vertical Spectral Ratio (HVSR)
-- Geophysics
-- Geospatial Statistics
-
-## Social Media & GitHub
-
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Twitter: [twitter.com/yourhandle](https://twitter.com/yourhandle)
+-
