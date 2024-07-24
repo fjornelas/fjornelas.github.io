@@ -9,9 +9,22 @@
   </div>
 </div>
 
-<div <a href="https://github.com/fjornelas" style="margin-left: 10px; margin-bottom: 10px;">
-      <img src="https://github.com/fjornelas/FJOwebsite/blob/main/img/github-mark.png?raw=true" width="20">
-    </a>
+<div>
+    <div style="margin-bottom: 10px;">
+      <a href="https://github.com/fjornelas" style="margin-right: 10px;">
+        <img src="https://github.com/fjornelas/FJOwebsite/blob/main/img/github-mark.png?raw=true" width="20">
+      </a>
+
+      <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID" style="margin-right: 10px;">
+        <img src="https://example.com/google-scholar-icon.png" width="20">
+      </a>
+
+      <a href="https://www.researchgate.net/profile/YOUR_PROFILE" style="margin-right: 10px;">
+        <img src="https://example.com/researchgate-icon.png" width="20">
+      </a>
+
+      <!-- Add more links and icons as needed -->
+    </div>
 
 ## Education
 
