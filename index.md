@@ -1,6 +1,6 @@
 # About Me
 
-![Francisco Javier G. Ornelas](img/0524 (1).jpg)
+![Francisco Javier G. Ornelas](https://github.com/fjornelas/FJOwebsite/blob/main/img/0524 (1).jpg)
 
 ## Biography
 
