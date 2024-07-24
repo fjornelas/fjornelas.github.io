@@ -6,4 +6,4 @@ root: index
 parts:
   - caption: Extra
     chapters:
-    - file: README
+    - file: test.html
