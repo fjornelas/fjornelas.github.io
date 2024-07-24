@@ -1,6 +1,6 @@
 # About Me
 
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="https://github.com/fjornelas/FJOwebsite/blob/main/img/0524%20(1).jpg?raw=true" width="150" style="border-radius: 50%; margin-right: 20px;">
   <div>
     <p><strong>Biography</strong></p>
@@ -31,8 +31,6 @@
 
 <div style="text-align: center;">
   <ul style="list-style-type: none; padding: 0;">
-    <li><a href="https://github.com/yourusername">GitHub</a></li>
-    <li><a href="https://linkedin.com/in/yourprofile">LinkedIn</a></li>
-    <li><a href="https://twitter.com/yourhandle">Twitter</a></li>
+    <li><a href="https://github.com/fjornelas">GitHub</a></li>
   </ul>
 </div>
