@@ -10,7 +10,7 @@
 </div>
 
 <div <a href="https://github.com/fjornelas" style="margin-left: 10px; margin-bottom: 10px;">
-      <img src="https://github.com/fjornelas/FJOwebsite/blob/main/img/github-mark.png?raw=true" width="50">
+      <img src="https://github.com/fjornelas/FJOwebsite/blob/main/img/github-mark.png?raw=true" width="20">
     </a>
 
 ## Education
