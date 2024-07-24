@@ -4,6 +4,6 @@
 format: jb-book
 root: index
 parts:
-  - caption: Extra
+  - caption: Publications
     chapters:
-    - file: test
+    - file: doc/test
