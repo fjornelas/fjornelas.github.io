@@ -14,11 +14,11 @@
       <a href="https://github.com/fjornelas" style="margin-right: 10px;">
         <img src="https://github.com/fjornelas/FJOwebsite/blob/main/img/github-mark.png?raw=true" width="20">
       </a>
-
+    </div>
       <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID" style="margin-right: 10px;">
         <img src="https://example.com/google-scholar-icon.png" width="20">
       </a>
-
+    </div>
       <a href="https://www.researchgate.net/profile/YOUR_PROFILE" style="margin-right: 10px;">
         <img src="https://example.com/researchgate-icon.png" width="20">
       </a>
