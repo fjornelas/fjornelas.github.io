@@ -31,6 +31,8 @@
 
 <div style="text-align: center;">
   <ul style="list-style-type: none; padding: 0;">
-    <li><a href="https://github.com/fjornelas">GitHub</a></li>
+    <li><a href="https://github.com/yourusername">GitHub</a></li>
+    <li><a href="https://linkedin.com/in/yourprofile">LinkedIn</a></li>
+    <li><a href="https://twitter.com/yourhandle">Twitter</a></li>
   </ul>
 </div>
