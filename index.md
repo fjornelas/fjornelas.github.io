@@ -1,6 +1,6 @@
 # About Me
 
-<img src="https://github.com/fjornelas/FJOwebsite/blob/main/img/?raw=true" width="775">
+<img src="https://github.com/fjornelas/FJOwebsite/blob/main/img/0524 (1).jpg?raw=true" width="775">
 
 
 ## Biography
