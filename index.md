@@ -5,7 +5,7 @@
   <div style="flex: 0 0 250px; margin-right: 20px;">
     <img src="https://github.com/fjornelas/FJOwebsite/blob/main/img/0524%20(1).jpg?raw=true" width="150" style="border-radius: 50%; margin-bottom: 10px;">
     <div style="margin-bottom: 10px;">
-      <h4 style="margin: 0;">Francisco Javier G. Ornelas</h4>
+      <h4 style="margin: 0; font-size: 1.1em;">Francisco Javier G. Ornelas</h4>
       <p style="margin: 0;">
         Graduate Student Researcher
         <br>
@@ -27,7 +27,7 @@
 
   <!-- Right Column: Paragraph Text -->
   <div style="flex: 1;">
-    <p>Francisco Javier G. Ornelas is currently pursuing a PhD at the University of California, Los Angeles, within the department of Civil and Environmental Engineering, specializing in Geotechnical Earthquake Engineering. His research centers on the acquisition of microtremor data for the development of Horizontal-to-Vertical Spectral Ratio (HVSR) curves aimed at establishing a comprehensive relational database in California for use in the development of site response models conditioned on HVSR.</p>
+    <p style="margin: 0 20px;">Francisco Javier G. Ornelas is currently pursuing a PhD at the University of California, Los Angeles, within the department of Civil and Environmental Engineering, specializing in Geotechnical Earthquake Engineering. His research centers on the acquisition of microtremor data for the development of Horizontal-to-Vertical Spectral Ratio (HVSR) curves aimed at establishing a comprehensive relational database in California for use in the development of site response models conditioned on HVSR.</p>
   </div>
 </div>
 
