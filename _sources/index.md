@@ -15,7 +15,7 @@
     <img src="https://github.com/fjornelas/FJOwebsite/blob/main/img/google-scholar-icon-2048x2048-sjbhklt7.png?raw=true" width="20">
   </a>
   <a href="https://www.researchgate.net/profile/Francisco-Javier-Ornelas" style="margin-right: 10px;">
-    <img src="https://github.com/fjornelas/FJOwebsite/blob/main/img/research_gate_image.png" width="20">
+    <img src="https://github.com/fjornelas/FJOwebsite/blob/main/img/research_gate_image.png?raw=true" width="20">
   </a>
 </div>
 
