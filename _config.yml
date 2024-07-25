@@ -29,3 +29,5 @@ html:
   use_issues_button: true
   use_repository_button: false
   extra_navbar: ""
+  analytics:
+    plausible_analytics_url: https://plausible.io/js/script.js
