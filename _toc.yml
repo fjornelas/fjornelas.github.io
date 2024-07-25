@@ -6,4 +6,4 @@ root: index
 parts:
   - caption: Publications
     chapters:
-    - file: doc/test
+    - file: doc/publication
