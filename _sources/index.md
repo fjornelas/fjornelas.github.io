@@ -20,8 +20,9 @@
 </div>
 
 <div>
-  <h6>Francisco Javier G. Ornelas</h6>
+  <h4>Francisco Javier G. Ornelas</h4>
   <p>
+    <font size="5">
     Graduate Student Researcher
     <br>
     Univerity of California, Los Angeles (UCLA)
