@@ -7,17 +7,6 @@
   </div>
 </div>
 
-<div>
-  <p>Francisco Javier G. Ornelas
-  </p>
-</div>
-
-<div>
-  <p>Graduate Student Researcher
-    Univerity of California, Los Angeles (UCLA)
-  </p>
-</div>
-
 <div style="margin-bottom: 10px;">
   <a href="https://github.com/fjornelas" style="margin-right: 10px;">
     <img src="https://github.com/fjornelas/FJOwebsite/blob/main/img/github-mark.png?raw=true" width="20">
@@ -28,6 +17,16 @@
   <a href="https://www.researchgate.net/profile/Francisco-Javier-Ornelas" style="margin-right: 10px;">
     <img src="https://github.com/fjornelas/FJOwebsite/blob/main/img/research_gate_image.png?raw=true" width="20">
   </a>
+</div>
+
+<div>
+  <h1>Francisco Javier G. Ornelas</h1>
+  <p>
+    <br>
+    Graduate Student Researcher
+    <br>
+    Univerity of California, Los Angeles (UCLA)
+  </p>
 </div>
 
 ## Education
