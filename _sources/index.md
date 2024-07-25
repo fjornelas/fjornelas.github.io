@@ -29,3 +29,12 @@
 
 - B.S. in Civil Engineering, 2020  
   University of the Pacific
+
+## Research Interests
+
+- Civil Engineering
+- Geotechnical Engineering
+- Soil Mechanics
+- Horizontal-to-Vertical Spectral Ratio (HVSR)
+- Geophysics
+- Geospatial Statistics
