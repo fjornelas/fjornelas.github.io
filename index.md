@@ -27,7 +27,8 @@
 
   <!-- Right Column: Paragraph Text -->
   <div style="flex: 1;">
-    <p style="margin: 0 20px;">Francisco Javier G. Ornelas is currently pursuing a PhD at the University of California, Los Angeles, within the department of Civil and Environmental Engineering, specializing in Geotechnical Earthquake Engineering. His research centers on the acquisition of microtremor data for the development of Horizontal-to-Vertical Spectral Ratio (HVSR) curves aimed at establishing a comprehensive relational database in California for use in the development of site response models conditioned on HVSR.</p>
+    <p style="margin: 0 20px;"> I am a graduate student researcher at the University of California, Los Angeles (UCLA). I earned my Bachelor of Science (BS) in Civil Engineering from the University of the Pacific (UOP), focusing on geotechnical engineering, water resources, and structural engineering. I then went on to earn my Master of Science (MS) at UCLA under the supervision of Dr. Jonathan P. Stewart, concentrating on geotechnical engineering. I am currently pursuing a PhD at UCLA under Dr. Stewart's guidance, conducting research related to the Horizontal-to-Vertical Spectral Ratio (HVSR). We aim to collect more data from various sites in California for use in the development of updated California based ground motion models conditioned on HVSR. Additionally, I am studying the spatial and azimuthal variability of microtremor derived (mHVSR) to develop a framework for understanding the complexity of a site, which can be useful in ground response analysis.
+</p>
   </div>
 </div>
 
