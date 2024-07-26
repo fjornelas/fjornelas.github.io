@@ -34,7 +34,7 @@
 
 ## Education
 
-- Ph.D. in Civil and Environmental Engineering (expected 2025)  
+- Ph.D. in Civil and Environmental Engineering (expected 2026)  
   University of California, Los Angeles (UCLA)
 
 - M.S. in Geotechnical Engineering, 2022  
