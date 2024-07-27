@@ -1,4 +1,4 @@
-# About Me
+# Home
 
 <div style="display: flex; margin-bottom: 20px;">
   <!-- Left Column: Image, Name, and Links -->
