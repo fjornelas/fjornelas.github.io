@@ -1,8 +1,7 @@
-# **Research**
+# Research
 ---
 
-## Objective Statement
----
+### Objective Statement
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1; margin-right: 20px;">
@@ -13,8 +12,7 @@
   </div>
 </div>
 
-## Research Highlights
----
+### Research Highlights
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
     <div style="flex: 2; padding-right: 20px;">
@@ -27,7 +25,7 @@
     <div style="flex: 2; padding-right: 20px;">
         <h3>Preliminary Site Response Model Development</h3>
         <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/ornelas_et_al_2024a_image1.png?raw=true" alt="Data Collection Photo" style="width: 30%; height: auto; margin-bottom: 10px;">
-        <p> Figure from Ornelas et al. (2024a) (can be found in publications)</p>
+        <p> Figure from Ornelas et al. (2024a) "Preliminary observations of an ergodic site response model in California conditioned on ( V_{s30} ) and HVSR parameters" (can be found in publications)</p>
     </div>
 </div>
 
