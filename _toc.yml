@@ -4,6 +4,7 @@
 format: jb-book
 root: index
 chapters:
-- file: doc/publication
 - file: doc/research
+- file: doc/publication
+- file: doc/software_and_data
 - file: doc/news
