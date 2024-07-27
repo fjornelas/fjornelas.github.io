@@ -6,11 +6,11 @@ The objectives of my research are to develop additive terms based on mHVSR for e
 
 ### data collection
 <div>
-<img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/data_collection_photo.png?raw=true" width="50">
+<img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/data_collection_photo.png?raw=true">
       </a></div>
 
 <div>
-<img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/IMG_9377.jpg?raw=true" width="50">
+<img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/IMG_9377.jpg?raw=true">
       </a></div>
 
 
