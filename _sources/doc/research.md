@@ -1,6 +1,18 @@
 # Research
 ---
 
-| **Objective Statement** | **Microtremor Data Collection** |
-|--------------------------|------------|
-| The objectives of my research are to develop additive terms based on mHVSR for ergodic site response models (e.g., BSSA14) that encapsulate site-geology across multiple regions in California to better predict site amplification. This would be accomplished through the continual collection of mHVSR data at sites of interest such as ground motion stations (e.g., downhole vertical arrays) and project sites of engineering interest. Moreover, it is important to collect as much data as possible and utilize existing data to aid in the understanding of mHVSR and the development of parameters which are accurate. This research has led to other findings and understanding of low-frequency (< 0.1 Hz) mHVSR and the reliability of peaks at these frequencies. Understanding the reliability of these peaks would aid in better capturing impedance contrast at depths well beyond what common geotechnical/geological tools can capture. | <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/data_collection_photo.png?raw=true" width="300"> <br> <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/IMG_9377.jpg?raw=true" width="300"> |
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+    <div style="width: 48%; padding-right: 20px;">
+        <h2>Objective Statement</h2>
+        <p>
+            The objectives of my research are to develop additive terms based on mHVSR for ergodic site response models (e.g., BSSA14) that encapsulate site-geology across multiple regions in California to better predict site amplification. This would be accomplished through the continual collection of mHVSR data at sites of interest such as ground motion stations (e.g., downhole vertical arrays) and project sites of engineering interest. Moreover, it is important to collect as much data as possible and utilize existing data to aid in the understanding of mHVSR and the development of parameters which are accurate. This research has led to other findings and understanding of low-frequency (&lt; 0.1 Hz) mHVSR and the reliability of peaks at these frequencies. Understanding the reliability of these peaks would aid in better capturing impedance contrast at depths well beyond what common geotechnical/geological tools can capture.
+        </p>
+    </div>
+
+    <div style="width: 48%;">
+        <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/data_collection_photo.png?raw=true" alt="Data Collection Photo" style="max-width: 100%; height: auto; margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px;">
+        <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/IMG_9377.jpg?raw=true" alt="Engineering Project Site" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px;">
+    </div>
+
+</div>
