@@ -9,23 +9,23 @@ The objectives of my research are to develop additive terms based on mHVSR for e
 
 ## Research Highlights
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-    <div style="flex: 1; min-width: 300px; padding: 10px;">
+    <div style="flex: 1; min-width: 300px; margin-right: 20px;">
         <h3>HVSR Data Collection</h3>
-        <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/data_collection_photo.png?raw=true" alt="Data Collection Photo" style="width: 50%; height: auto; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 10px;">
+        <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/data_collection_photo.png?raw=true" alt="Data Collection Photo" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 10px;">
         <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/IMG_9377.jpg?raw=true" alt="Engineering Project Site" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </div>
 
-    <div style="flex: 1; min-width: 300px; padding: 10px;">
+    <div style="flex: 1; min-width: 300px; margin-right: 20px;">
         <h3>Preliminary Site Response Model Development</h3>
-        <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/ornelas_et_al_2024a_image1.png?raw=true" alt="Preliminary Site Response Model" style="width: 30%; height: auto; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 10px;">
+        <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/ornelas_et_al_2024a_image1.png?raw=true" alt="Preliminary Site Response Model" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 10px;">
         <p>Figure from Ornelas et al. (2024a) (can be found in publications)</p>
     </div>
 
-    <div style="flex: 1; min-width: 300px; padding: 10px;">
+    <div style="flex: 1; min-width: 300px;">
         <h3>Low Frequency mHVSR Investigation</h3>
-        <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/ornelas_et_al_2024b_image1.png?raw=true" alt="Low Frequency mHVSR Investigation" style="width: 50%; height: auto; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 10px;">
+        <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/ornelas_et_al_2024b_image1.png?raw=true" alt="Low Frequency mHVSR Investigation" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 10px;">
         <p>Figure from Ornelas et al. (2024b) "Reliability of Low Frequency mHVSR Ordinates" (can be found in publications)</p>
     </div>
 
