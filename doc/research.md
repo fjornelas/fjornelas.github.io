@@ -11,8 +11,8 @@
     </div>
 
     <div style="width: 48%;">
-        <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/data_collection_photo.png?raw=true" alt="Data Collection Photo" style="max-width: 100%; height: auto; margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px;">
-        <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/IMG_9377.jpg?raw=true" alt="Engineering Project Site" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px;">
+        <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/data_collection_photo.png?raw=true" alt="Data Collection Photo" style="max-width: 100%; height: auto; margin-bottom: 10px;">
+        <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/IMG_9377.jpg?raw=true" alt="Engineering Project Site" style="max-width: 100%; height: auto;">
     </div>
 
 </div>
