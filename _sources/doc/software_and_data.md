@@ -1,10 +1,13 @@
-# Software
+# Software and Data
+---
+
+### Software
 
 **Ornelas, F. J. G.**, Wang, P., Brandenberg, S. J., & Stewart, J. P. (2024). *fjornelas/hvsrprocpy: hvsrprocpy* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.12672550
 
 **Ornelas, F. J. G.** (2024). *fjornelas/parzenpy: parzenpy* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.11273315
 
-# Datasets
+### Datasets
 
 Nweke, C., Shams, R., Vyas, P., & **Ornelas, F. J. G.** (2024). *Microtremor Horizontal-to-Vertical Spectral Ratio (mHVSR) Data Collection at Baldwin Hills, 2023*, in *Microtremor Measurements Performed Within Southern California*. DesignSafe-CI. https://doi.org/10.17603/ds2-sekd-j098 (v1)
 
