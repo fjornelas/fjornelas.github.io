@@ -7,7 +7,7 @@ The objectives of my research are to develop additive terms based on mHVSR for e
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
     <div style="flex: 2; padding-right: 20px;">
-        <h3>Images</h3>
+        <h3>HVSR Data Collection</h3>
         <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/data_collection_photo.png?raw=true" alt="Data Collection Photo" style="width: 100%; height: auto; margin-bottom: 10px;">
         <img src="https://github.com/fjornelas/FJOwebsite/blob/main/images/IMG_9377.jpg?raw=true" alt="Engineering Project Site" style="width: 100%; height: auto;">
     </div>
