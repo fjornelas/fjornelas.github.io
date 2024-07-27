@@ -7,7 +7,7 @@
 
 Mai, D., Nweke, C. C., Wang, P., & **Ornelas, F. J. G.** (2024). Investigating the viability of low frequency mHVSR estimates using deep shear wave velocity profile. In *Proceedings of the 18th World Conference on Earthquake Engineering*.
 
-**Ornelas, F. J. G.**, Buckreis, T., Nweke, C. C., Wang, P., de la Torre, C., Brandenberg, S. J., & Stewart, J. P. (2024). Preliminary observations of an ergodic site response model in California conditioned on \( V_{s30} \) and HVSR parameters. *Japanese Geotechnical Society Special Publication, 10*(47), 1769-1774. https://doi.org/10.3208/jgssp.v10.OS-36-06
+**Ornelas, F. J. G.**, Buckreis, T., Nweke, C. C., Wang, P., de la Torre, C., Brandenberg, S. J., & Stewart, J. P. (2024). Preliminary observations of an ergodic site response model in California conditioned on V~s30~ and HVSR parameters. *Japanese Geotechnical Society Special Publication, 10*(47), 1769-1774. https://doi.org/10.3208/jgssp.v10.OS-36-06
 
 ### Reports
 
