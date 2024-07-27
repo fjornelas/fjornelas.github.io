@@ -6,3 +6,4 @@ root: index
 chapters:
 - file: doc/publication
 - file: doc/research
+- file: doc/news
