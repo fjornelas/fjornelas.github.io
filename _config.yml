@@ -31,4 +31,4 @@ html:
   use_repository_button: false
   extra_navbar: ""
   analytics:
-    plausible_analytics_url: https://plausible.io/js/script.js
+    google_analytics_id: G-YPM8N218LL
