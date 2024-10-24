@@ -3,6 +3,8 @@
 
 ### Conference Papers
 
+**Ornelas, FJ**, CA de la Torre, JP Stewart (2024). Implications of mHVSR spatial variability on site response predictability, SMIP2024 Seminar on Utilization of Strong Motion Data, Web Conference, October 17 2024, pp. 1-17.
+
 **Ornelas, FJ**, CC Nweke, CA de la Torre, P Wang, TD Mai, BR Cox, SJ Brandenberg, JP Stewart (2024). Reliability of low frequency mHVSR ordinates, 18th World Conference on Earthquake Engineering, Milan, Italy, July 1-5 2024, Session GEO10, 12 pages
 
 Mai, D., Nweke, C. C., Wang, P., & **Ornelas, F. J. G.** (2024). Investigating the viability of low frequency mHVSR estimates using deep shear wave velocity profile. In *Proceedings of the 18th World Conference on Earthquake Engineering*.
