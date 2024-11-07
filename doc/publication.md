@@ -11,6 +11,10 @@ Mai, D., Nweke, C. C., Wang, P., & **Ornelas, F. J. G.** (2024). Investigating t
 
 **Ornelas, F. J. G.**, Buckreis, T., Nweke, C. C., Wang, P., de la Torre, C., Brandenberg, S. J., & Stewart, J. P. (2024). Preliminary observations of an ergodic site response model in California conditioned on V<sub>s30</sub> and HVSR parameters. *Japanese Geotechnical Society Special Publication, 10*(47), 1769-1774. https://doi.org/10.3208/jgssp.v10.OS-36-06
 
+### Posters
+
+**Ornelas, F. G.**, de la Torre, C. A., & Stewart, J. P. (2024). A Preliminary Framework for Evaluating the Effectiveness of 1D Ground Response Analysis at Vertical Array Sites Utilizing the Spatial Variability of mHVSR. Poster Presentation at 2024 SCEC Annual Meeting.
+
 ### Reports
 
 O'Donnell, T. M., Hudson, K. S., **Ornelas, F. J. G.**, Stewart, J. P., Brandenberg, S. J., Nweke, C. C., & Zimmaro, P. (2024). *Site characterization and liquefaction analysis at Searles Lake, CA following 2019 Ridgecrest Earthquake Sequence* (Report No. 2024-03). UCLA Garrick Institute for the Risk Sciences.
